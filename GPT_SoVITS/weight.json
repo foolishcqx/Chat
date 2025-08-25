@@ -1,0 +1,22 @@
+{
+    "GPT": {
+        "v2": "GPT_SoVITS/GPT_weights_v2/lzy-e15.ckpt",
+        "\u9633\u5149zql": "GPT_SoVITS/GPT_weights_v2/\u9633\u5149zql-e15.ckpt",
+        "bq": "GPT_SoVITS/GPT_weights_v2/bq-e15.ckpt",
+        "lx": "GPT_SoVITS/GPT_weights_v2/lx-e15.ckpt",
+        "lzy": "GPT_SoVITS/GPT_weights_v2/lzy-e15.ckpt",
+        "xm": "GPT_SoVITS/GPT_weights_v2/xm-e15.ckpt",
+        "\u9738\u603bzql": "GPT_SoVITS/GPT_weights_v2/\u9738\u603bzql-e15.ckpt",
+        "\u590d\u6742zql": "GPT_SoVITS/GPT_weights_v2/\u590d\u6742zql-e15.ckpt"
+    },
+    "SoVITS": {
+        "v2": "GPT_SoVITS/SoVITS_weights_v2/lzy_e8_s1336.pth",
+        "\u9633\u5149zql": "GPT_SoVITS/SoVITS_weights_v2/\u9633\u5149zql_e8_s432.pth",
+        "bq": "GPT_SoVITS/SoVITS_weights_v2/bq_e8_s1520.pth",
+        "lx": "GPT_SoVITS/SoVITS_weights_v2/lx_e12_s972.pth",
+        "lzy": "GPT_SoVITS/SoVITS_weights_v2/lzy_e8_s1336.pth",
+        "xm": "GPT_SoVITS/SoVITS_weights_v2/xm_e8_s3080.pth",
+        "\u9738\u603bzql": "GPT_SoVITS/SoVITS_weights_v2/\u9738\u603bzql_e8_s320.pth",
+        "\u590d\u6742zql": "GPT_SoVITS/SoVITS_weights_v2/\u590d\u6742zql_e8_s536.pth"
+    }
+}

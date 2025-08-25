@@ -1,0 +1,29 @@
+Model ID: lx, Inference Time: 14.1710s, Total Time: 14.1746s, New Model Loaded: False, Peak Memory Allocated: 2083.82 MB
+Model ID: 复杂zql, Inference Time: 6.1705s, Total Time: 7.6732s, New Model Loaded: True, Peak Memory Allocated: 2192.15 MB
+Model ID: 复杂zql, Inference Time: 3.4130s, Total Time: 3.4151s, New Model Loaded: True, Peak Memory Allocated: 2158.41 MB
+Model ID: lx, Inference Time: 3.3317s, Total Time: 3.3368s, New Model Loaded: False, Peak Memory Allocated: 2149.77 MB
+Model ID: lx, Inference Time: 2.9173s, Total Time: 2.9199s, New Model Loaded: False, Peak Memory Allocated: 2146.40 MB
+Model ID: lx, Inference Time: 2.6362s, Total Time: 2.6391s, New Model Loaded: False, Peak Memory Allocated: 2142.46 MB
+Model ID: xm, Inference Time: 3.3526s, Total Time: 4.6384s, New Model Loaded: True, Peak Memory Allocated: 2226.84 MB
+Model ID: 复杂zql, Inference Time: 3.9683s, Total Time: 3.9813s, New Model Loaded: True, Peak Memory Allocated: 2244.94 MB
+Model ID: 复杂zql, Inference Time: 3.2339s, Total Time: 3.2366s, New Model Loaded: True, Peak Memory Allocated: 2228.25 MB
+Model ID: v2, Inference Time: 3.0669s, Total Time: 4.4046s, New Model Loaded: False, Peak Memory Allocated: 2302.54 MB
+Model ID: lzy, Inference Time: 3.3616s, Total Time: 3.3646s, New Model Loaded: False, Peak Memory Allocated: 2361.58 MB
+Model ID: 复杂zql, Inference Time: 4.7620s, Total Time: 4.7761s, New Model Loaded: True, Peak Memory Allocated: 2384.82 MB
+Model ID: 霸总zql, Inference Time: 4.3067s, Total Time: 5.5514s, New Model Loaded: True, Peak Memory Allocated: 2402.92 MB
+Model ID: 阳光zql, Inference Time: 3.5999s, Total Time: 4.8470s, New Model Loaded: False, Peak Memory Allocated: 2415.78 MB
+Model ID: v2, Inference Time: 3.0082s, Total Time: 3.0351s, New Model Loaded: False, Peak Memory Allocated: 2409.33 MB
+Model ID: xm, Inference Time: 4.7076s, Total Time: 6.3208s, New Model Loaded: True, Peak Memory Allocated: 2596.50 MB
+Model ID: lzy, Inference Time: 6.2604s, Total Time: 7.7920s, New Model Loaded: False, Peak Memory Allocated: 2624.45 MB
+Model ID: 阳光zql, Inference Time: 4.1612s, Total Time: 4.1642s, New Model Loaded: False, Peak Memory Allocated: 2618.08 MB
+Model ID: xm, Inference Time: 3.3730s, Total Time: 3.3760s, New Model Loaded: True, Peak Memory Allocated: 2610.48 MB
+Model ID: v2, Inference Time: 3.9789s, Total Time: 3.9819s, New Model Loaded: False, Peak Memory Allocated: 2618.22 MB
+
+Model Update Log:
+Evicted Model: v2, Loaded Model: 复杂zql
+Evicted Model: 阳光zql, Loaded Model: xm
+Evicted Model: bq, Loaded Model: v2
+Evicted Model: lx, Loaded Model: 霸总zql
+Evicted Model: xm, Loaded Model: 阳光zql
+Evicted Model: lzy, Loaded Model: xm
+Evicted Model: 复杂zql, Loaded Model: lzy

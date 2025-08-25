@@ -1,0 +1,10 @@
+v2, 62.2230s, Inference: 17.6769s, PeakMem: 1146.20MB
+v2, 66.4074s, Inference: 4.1268s, PeakMem: 1154.76MB
+v2, 72.8754s, Inference: 6.4660s, PeakMem: 1175.70MB
+v2, 76.9016s, Inference: 4.0242s, PeakMem: 1150.11MB
+v2, 81.2570s, Inference: 4.3544s, PeakMem: 1151.87MB
+v2, 86.1429s, Inference: 4.8836s, PeakMem: 1165.26MB
+v2, 90.7548s, Inference: 4.6110s, PeakMem: 1163.04MB
+v2, 94.4996s, Inference: 3.7434s, PeakMem: 1148.96MB
+v2, 98.3510s, Inference: 3.8491s, PeakMem: 1150.61MB
+v2, 102.5607s, Inference: 4.2097s, PeakMem: 1151.02MB
